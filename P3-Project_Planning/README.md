@@ -17,4 +17,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-[React Lawn](https://github.com/Zestymspicy/react-lawn)
+[React Lawn](https://github.com/Zestymcspicy/react-lawn)
