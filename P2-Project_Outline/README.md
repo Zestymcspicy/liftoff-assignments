@@ -20,7 +20,7 @@ An app that redirects by just a small amount could save time and labor for lands
 
 ### Technologies
 
-* React Native
+* React
 
 * Google Firebase/Firestore
 
